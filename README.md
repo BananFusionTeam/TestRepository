@@ -1,1 +1,1 @@
-Prohor lox
+Prohor ne lox
