@@ -1,5 +1,5 @@
 cmake_minimum_required (VERSION 3.23.3 FATAL_ERROR)
 
-project(testproject)
+project(src)
 
-add_executable(testproject src/main.cpp)
+add_executable(src src/main.cpp)
