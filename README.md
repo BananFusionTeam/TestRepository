@@ -1,1 +1,0 @@
-Prohor ne lox
